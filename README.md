@@ -33,7 +33,7 @@ Try the live system using the tabs above:
 
 ## About
 
-This system was developed as part of MS thesis research at GIFT University, Pakistan.
+This system was developed as part of MS course work Project at GIFT University, Pakistan.
 
 **Author:** Aneela Pervez  
 **Institution:** GIFT University, Department of Computer Science  
