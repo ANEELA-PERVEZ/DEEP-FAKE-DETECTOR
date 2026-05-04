@@ -1,8 +1,3 @@
----
-title: DEEP FAKE DETECTOR
-
-short_description: Multimodal deepfake detection across 5 modalities
----
 
 # Multimodal Deepfake Detection System
 
